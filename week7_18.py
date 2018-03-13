@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Mar 13 18:35:12 2018
+
+@author: prathumarayatamanee
+"""
 # 18. Generate some statistics for tagged data to answer the following questions:
 #18 คำไหนกำกวม (ติด tag มากกว่า 2 อันขึ้นไป)
 from nltk.corpus import brown
